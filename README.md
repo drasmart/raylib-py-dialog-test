@@ -1,4 +1,4 @@
-# raylib-test
+# raylib-py-dialog-test
 
 Raylib input dialog (text field, OK, Cancel) that returns structured JSON.
 
